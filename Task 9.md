@@ -1,0 +1,3 @@
+#Task 9
+
+SELECT FLOOR (AVG (POPULATION))  from CITY
